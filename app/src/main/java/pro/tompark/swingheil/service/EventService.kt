@@ -4,8 +4,8 @@ import android.content.Context
 import android.util.Log
 import com.android.volley.Response
 import com.android.volley.toolbox.JsonArrayRequest
-import com.android.volley.toolbox.Volley
 import org.json.JSONException
+import pro.tompark.swingheil.controller.App
 import pro.tompark.swingheil.model.Event
 import pro.tompark.swingheil.utility.URL_GET_EVENTS
 
@@ -30,7 +30,7 @@ object EventService {
      */
     fun getEvents(context: Context, complete: (Boolean) -> Unit) {
 
-        val findEventsRequest = object : JsonArrayRequest(Method.GET, URL_GET_EVENTS, null, Response.Listener { response ->
+        val getEventsRequest = object : JsonArrayRequest(Method.GET, URL_GET_EVENTS, null, Response.Listener { response ->
             clearEvent()
 
             try {
@@ -61,7 +61,7 @@ object EventService {
             }
         }
 
-        Volley.newRequestQueue(context).add(findEventsRequest)
+        App.prefs.requestQueue.add(getEventsRequest)
     }
 
     fun clearEvent() {
