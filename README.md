@@ -39,7 +39,15 @@ The SwingHeil Android app project uses Kotlin language and volley library.
 ## Version 1
 The first version of SwingHeil app was built with Java. It was on Google Play Store, but it not running now.
 
-![SwingHeil App Banner](https://t1.daumcdn.net/cfile/tistory/993A924C5B3066E32D){: width="50%" height="50%"}
+<img src="https://t1.daumcdn.net/cfile/tistory/993A924C5B3066E32D" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
+<img src="https://t1.daumcdn.net/cfile/tistory/99DA9E4C5B3066E533" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
+<img src="https://t1.daumcdn.net/cfile/tistory/994B784C5B3066E702" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
+<img src="https://t1.daumcdn.net/cfile/tistory/994B784C5B3066E702" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
+<img src="https://t1.daumcdn.net/cfile/tistory/9939454C5B3066E804" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
+<img src="https://t1.daumcdn.net/cfile/tistory/992F944C5B3066EB05" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
+<img src="https://t1.daumcdn.net/cfile/tistory/99A030445B3066ED08" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
+<img src="https://t1.daumcdn.net/cfile/tistory/997184445B3066EF34" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
+<img src="https://t1.daumcdn.net/cfile/tistory/99E444445B3066F003" alt="SwingHeil" title="SwingHeil" width="100" height="200" />
 
 ## License
 
