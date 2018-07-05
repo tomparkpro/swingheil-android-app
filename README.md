@@ -43,12 +43,12 @@ The first version of SwingHeil app was built with Java. It was on Google Play St
 
 ## License
 
-The swingheil-web-app is licensed under the terms of the GPL Open Source
+The swingheil-android-app is licensed under the terms of the GPL Open Source
 license and is available for free.
 
 
 ## Links
 
 * [Facebook page](https://www.facebook.com/swingheilapp)
-* [Issue tracker](https://github.com/tomparkpro/swingheil-rest-api/issues)
-* [Source code](https://github.com/tomparkpro/swingheil-rest-api)
+* [Issue tracker](https://github.com/tomparkpro/swingheil-android-app/issues)
+* [Source code](https://github.com/tomparkpro/swingheil-android-app)
